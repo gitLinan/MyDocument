@@ -1,0 +1,56 @@
+# #常用的脚本文件
+
+> 来源网络(作者可根据网址查询)
+
+## #锐速 (appex.sh)
+
+```shell
+wget --no-check-certificate -O appex.sh https://raw.githubusercontent.com/0oVicero0/serverSpeeder_Install/master/appex.sh && chmod +x appex.sh && bash appex.sh install
+```
+
+
+
+## #逗逼bbr (bbr.sh)
+
+```shell
+wget -N --no-check-certificate https://softs.loan/Bash/bbr.sh && chmod +x bbr.sh && bash bbr.sh
+
+备用：
+wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/bbr.sh && chmod +x bbr.sh && bash bbr.sh
+```
+
+
+
+## #民间干净debian系统 (DebianNET.sh)
+
+```shell
+wget --no-check-certificate -qO DebianNET.sh 'https://moeclub.org/attachment/LinuxShell/DebianNET.sh' && chmod -x DebianNET.sh && bash DebianNET.sh -d 8 -v 64 -a
+```
+
+
+
+## #逗逼Serverstatus (status.sh)
+
+```shell
+wget -N --no-check-certificate https://softs.loan/Bash/status.sh && chmod +x status.sh
+ 
+# 如果上面这个脚本无法下载，尝试使用备用下载：
+wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/status.sh && chmod +x status.sh
+```
+
+
+
+####暴力版bbr (tcp_nanqinlang-fool-1.3.0.sh)
+
+```shell
+wget https://github.com/tcp-nanqinlang/general/releases/download/3.4.2.1/tcp_nanqinlang-fool-1.3.0.sh
+bash tcp_nanqinlang-fool-1.3.0.sh
+```
+
+
+
+
+
+
+
+
